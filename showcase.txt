@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+  <title>GuineaGuide</title>
+  <style>
+    body {
+      background-color: pink;
+      color: blue;
+    }
+    .divbar {
+      background-color: blue;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  Guinea guide<hr><br><br><b>Bold</b> <u>underlined</u> <i>Wow this is so cool</i>
+  <div class="divbar">This is a funny haha poopoo div test lmao xd bussin so funny whack ass goofy aah</div>
+  <br><br><mark>highligher</mark>
+  <marquee>VROOM!</marquee>
+</body>
